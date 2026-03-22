@@ -2,6 +2,8 @@
 
 A Python implementation of a Long Short-Term Memory (LSTM) model for stock price prediction. The model is built using PyTorch and trained on historical stock price data fetched using the `yfinance` library.
 
+<img width="1780" height="1470" alt="543525314-e9c0d9fc-cc2d-4f79-8188-07a603c21656" src="https://github.com/user-attachments/assets/4d82d9f7-6785-44a7-8815-018d9ace0410" />
+
 ## Features
 
 - Downloads historical stock price data using `yfinance`.
